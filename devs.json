@@ -1,5 +1,5 @@
 {
-  "$schema": "https://unpkg.com/caveau@0.2.0/schemas/keyring.json",
+  "$schema": "https://unpkg.com/caveau@0.2.12/schemas/keyring.json",
   "publicKeys": {
     "s.verna": "age17uv4sm397qjxmhxn9egmxg330zs2avtakunnsledelaua55vusssdrpjpw",
     "f.monti": "age1wq3kra8hq7l5jxy6yw3899yehsd3emlst2fvuh7dydj5kwuhfg7qkuzg6q",
