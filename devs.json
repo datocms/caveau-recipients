@@ -1,3 +1,6 @@
 {
-  "stefanoverna": "age17uv4sm397qjxmhxn9egmxg330zs2avtakunnsledelaua55vusssdrpjpw"
+  "$schema": "https://unpkg.com/caveau@0.2.0/schemas/keyring.json",
+  "publicKeys": {
+    "stefanoverna": "age17uv4sm397qjxmhxn9egmxg330zs2avtakunnsledelaua55vusssdrpjpw"
+  }
 }
