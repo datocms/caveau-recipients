@@ -2,6 +2,7 @@
   "$schema": "https://unpkg.com/caveau@0.2.0/schemas/keyring.json",
   "publicKeys": {
     "s.verna": "age17uv4sm397qjxmhxn9egmxg330zs2avtakunnsledelaua55vusssdrpjpw",
-    "f.monti": "age1wq3kra8hq7l5jxy6yw3899yehsd3emlst2fvuh7dydj5kwuhfg7qkuzg6q"
+    "f.monti": "age1wq3kra8hq7l5jxy6yw3899yehsd3emlst2fvuh7dydj5kwuhfg7qkuzg6q",
+    "s.stralla": "age1eh94pm7ru94drhefsw8sste72ryx6gclwf9zmz9c2wf6tql97szqav8tap"
   }
 }
