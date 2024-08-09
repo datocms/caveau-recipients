@@ -3,9 +3,11 @@
 	"publicKeys": {
 		"s.verna": "age17uv4sm397qjxmhxn9egmxg330zs2avtakunnsledelaua55vusssdrpjpw",
 		"f.monti": "age1wq3kra8hq7l5jxy6yw3899yehsd3emlst2fvuh7dydj5kwuhfg7qkuzg6q",
-		"s.stralla": "age1eh94pm7ru94drhefsw8sste72ryx6gclwf9zmz9c2wf6tql97szqav8tap"
+		"s.stralla": "age1eh94pm7ru94drhefsw8sste72ryx6gclwf9zmz9c2wf6tql97szqav8tap",
+		"i.oppo": "age1lnaga603daq64ttr06hcncmmskyer2fztz95s30zyeeuwpklxygs4d2pn3"
 	},
 	"teams": {
-		"devs": ["s.verna", "f.monti", "s.stralla"]
+		"devs": ["s.verna", "f.monti", "s.stralla", "i.oppo"],
+		"support": []
 	}
 }
