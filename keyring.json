@@ -1,15 +1,19 @@
 {
-	"$schema": "https://unpkg.com/kavo@0.2.16/schemas/keyring.json",
-	"publicKeys": {
-		"s.verna": "age17uv4sm397qjxmhxn9egmxg330zs2avtakunnsledelaua55vusssdrpjpw",
-		"f.monti": "age1wq3kra8hq7l5jxy6yw3899yehsd3emlst2fvuh7dydj5kwuhfg7qkuzg6q",
-		"s.stralla": "age1eh94pm7ru94drhefsw8sste72ryx6gclwf9zmz9c2wf6tql97szqav8tap",
-		"i.oppo": "age1lnaga603daq64ttr06hcncmmskyer2fztz95s30zyeeuwpklxygs4d2pn3",
-		"r.tuan": "age1xzfr35dyat3sa9a3htnyq0tzv0rgzzv4jwrvs94z29m7j4zx340shj6kwr",
-		"m.f.vieira": "age1tdhqx0vtp2cs92s45d7tmqxw207xpdtr5zea62x4pww6dn07e49qdss35w"
-	},
-	"teams": {
-		"devs": ["s.verna", "f.monti", "s.stralla", "i.oppo"],
-		"support": ["r.tuan", "m.f.vieira"]
-	}
+  "$schema": "https://unpkg.com/kavo@0.2.16/schemas/keyring.json",
+  "publicKeys": {
+    "s.verna": "age17uv4sm397qjxmhxn9egmxg330zs2avtakunnsledelaua55vusssdrpjpw",
+    "f.monti": "age1wq3kra8hq7l5jxy6yw3899yehsd3emlst2fvuh7dydj5kwuhfg7qkuzg6q",
+    "s.stralla": "age1eh94pm7ru94drhefsw8sste72ryx6gclwf9zmz9c2wf6tql97szqav8tap",
+    "i.oppo": "age1lnaga603daq64ttr06hcncmmskyer2fztz95s30zyeeuwpklxygs4d2pn3",
+    "r.tuan": "age1xzfr35dyat3sa9a3htnyq0tzv0rgzzv4jwrvs94z29m7j4zx340shj6kwr",
+    "m.f.vieira": "age1tdhqx0vtp2cs92s45d7tmqxw207xpdtr5zea62x4pww6dn07e49qdss35w",
+    "m.mezzavilla": "age12samq4mdn4emwm0q047af8stkstkmlhpn0cpwa42xgmncwge63eqy0m44u",
+    "r.ganatra": "age1fquk2d0ka7l6vp3j5ccchalr0dj3h96p5dktasv6000t7h83zpuq59ezc3",
+    "github:astro-website": "age1fvhp7ezka4xxhu2ut43nn88hp5kaz3uhn0qrqgxducdl9tnjvp7sp5hgx7"
+  },
+  "teams": {
+    "devs": ["s.verna", "f.monti", "s.stralla", "i.oppo"],
+    "support": ["r.tuan", "m.f.vieira"],
+    "marketing": ["m.mezzavilla", "r.ganatra"]
+  }
 }
