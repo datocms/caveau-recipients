@@ -9,10 +9,11 @@
     "m.f.vieira": "age1tdhqx0vtp2cs92s45d7tmqxw207xpdtr5zea62x4pww6dn07e49qdss35w",
     "m.mezzavilla": "age12samq4mdn4emwm0q047af8stkstkmlhpn0cpwa42xgmncwge63eqy0m44u",
     "r.ganatra": "age1h3hra6ahxa5ws2r7skf5t3c336595ajctgev6s5yjhdp63y94qwsvagkdq",
-    "github:astro-website": "age1fvhp7ezka4xxhu2ut43nn88hp5kaz3uhn0qrqgxducdl9tnjvp7sp5hgx7"
+    "github:astro-website": "age1fvhp7ezka4xxhu2ut43nn88hp5kaz3uhn0qrqgxducdl9tnjvp7sp5hgx7",
+    "m.giaccone": "age1epkvl75sj2kvlcmmkeu89ms0mp3a7a3rz33yjwd9q8tm8uqjqv0qrg0mzm"
   },
   "teams": {
-    "devs": ["s.verna", "f.monti", "s.stralla", "i.oppo"],
+    "devs": ["s.verna", "f.monti", "s.stralla", "i.oppo", "m.giaccone"],
     "support": ["r.tuan", "m.f.vieira"],
     "marketing": ["m.mezzavilla", "r.ganatra"]
   }
